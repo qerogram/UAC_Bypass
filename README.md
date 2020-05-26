@@ -1,7 +1,7 @@
 # UAC_Bypass
 
 ## Video
-[![Watch the video](https://github.com/qerogram/UAC_Bypass/blob/master/thumbnail.png)](https://github.com/qerogram/UAC_Bypass/blob/master/POC.mov)
+[![Watch the video](https://github.com/qerogram/UAC_Bypass/blob/master/thumbnail.png)](https://drive.google.com/file/d/17xdLy4bF2Nyh5V6JXqahv6etZaBsgPmT/view?usp=sharing)
 
 ## Description
 We use DLL Hijacking.
